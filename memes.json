@@ -1,0 +1,56 @@
+{
+  "memes": [
+    {
+      "texts": [
+        {
+          "id": "text_top",
+          "content": "welcome",
+          "color": "BLACK",
+          "size": 32,
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_TOP"
+        },
+        {
+          "id": "text_bottom",
+          "content": "",
+          "color": "BLACK",
+          "size": 32,
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM"
+        }
+      ],
+      "id": 1613660267950,
+      "originalImage": "1613660267550-cake.jpeg",
+      "originalImagePath": "public/images/1613660267550-cake.jpeg",
+      "outputMemePath": "public/images/MEME_1613660267950.jpeg",
+      "createdAt": 1613660268112,
+      "updatedAt": 1613660286686
+    },
+    {
+      "texts": [
+        {
+          "id": "text_top",
+          "content": "hello",
+          "color": "BLACK",
+          "size": 32,
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_TOP"
+        },
+        {
+          "id": "text_bottom",
+          "content": "happy birthday",
+          "color": "BLACK",
+          "size": 32,
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM"
+        }
+      ],
+      "id": 1613660238107,
+      "originalImage": "1613660237675-birthday.jpeg",
+      "originalImagePath": "public/images/1613660237675-birthday.jpeg",
+      "outputMemePath": "public/images/MEME_1613660238107.jpeg",
+      "createdAt": 1613660238276,
+      "updatedAt": 1613660250398
+    }
+  ]
+}
